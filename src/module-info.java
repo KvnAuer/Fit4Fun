@@ -1,0 +1,2 @@
+module fit4Fun {
+}
